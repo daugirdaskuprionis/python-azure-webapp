@@ -1,17 +1,1 @@
 # python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
-# python-azure-webapp
